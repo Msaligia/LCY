@@ -1,2 +1,2 @@
 # LCY
-hellow word
+hello word
